@@ -1,0 +1,16 @@
+.hover {
+  cursor: pointer;
+  transition: 0.3s all;
+  width: 100%;
+  padding: 5px;
+}
+
+.item-input {
+  width: 100%;
+  height: 30px;
+  margin: 10px;
+}
+
+.hover:hover {
+  background-color: rgb(231, 231, 231);
+}

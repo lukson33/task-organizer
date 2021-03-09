@@ -1,0 +1,27 @@
+.Card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #fff;
+  justify-content: space-between;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.margin-left {
+  margin-left: 8px;
+  width: 100%;
+  cursor: pointer;
+  text-align: left;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  padding: 5px 8px;
+}
+
+.card-icon {
+  padding: 5px 0;
+  cursor: pointer;
+}
